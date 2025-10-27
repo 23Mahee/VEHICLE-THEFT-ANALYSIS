@@ -16,9 +16,9 @@ The dashboard was built using the following tools and technologies:
 
 🧠 DAX (Data Analysis Expressions) – Used for key performance indicators, calculations, and time-based measures.
 
-🗂️ Data Modeling – Established relationships between tables (vehicle data, region data, and theft records) to support interactive cross-filtering.
+🗂️ Data Modeling – Established relationships between tables (vehicle data, location data, and detail records) to support interactive cross-filtering.
 
-💾 File Format – .pbix for Power BI source file, .png for dashboard preview.
+💾 File Format – .pbix for Power BI source file, .JPG for dashboard preview.
 
 ## 📊 Data Source
 
@@ -94,3 +94,4 @@ Users can slice data by date range, region, and vehicle type.
 💡 Policy Application: Police departments can allocate resources more effectively during high-risk times and regions.
 
 🖼️ Screenshot / Dashboard Preview
+![Dashboard Preview](https://github.com/23Mahee/VEHICLE-THEFT-ANALYSIS/blob/main/Vehicle%20theft.JPG)
