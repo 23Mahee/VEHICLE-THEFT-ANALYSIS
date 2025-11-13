@@ -95,3 +95,6 @@ Users can slice data by date range, region, and vehicle type.
 
 🖼️ Screenshot / Dashboard Preview
 ![Dashboard Preview](https://github.com/23Mahee/VEHICLE-THEFT-ANALYSIS/blob/main/Vehicle%20theft.JPG)
+
+## [Live Link](https://app.powerbi.com/view?r=eyJrIjoiMTk5YjNmMzgtYTBhMi00ODQ2LWJkYmItOGZjYjg1MzQ5MWM4IiwidCI6ImNiNDg2NjE1LWI4MTYtNGU0NS1iYTJiLTIzM2RiODYwMWJmYSIsImMiOjEwfQ%3D%3D)
+
